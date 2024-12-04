@@ -1,0 +1,46 @@
+{
+    "exclude": {
+        "appids": [
+            7670,
+            8850,
+            582660,
+            706220,
+            50620,
+            1422450,
+            570,
+            1046930,
+            39210,
+            1250,
+            35420,
+            238960,
+            231060,
+            208610,
+            72850,
+            390340,
+            55150,
+            1599340,
+            1063730
+        ],
+        "names": [
+            "BioShock",
+            "BioShock 2",
+            "Black Desert",
+            "Black Desert SA (Retired)",
+            "Darksiders",
+            "Deadlock",
+            "Dota 2",
+            "Dota Underlords",
+            "FINAL FANTASY XIV Online",
+            "Killing Floor",
+            "Killing Floor Mod: Defence Alliance 2",
+            "Path of Exile",
+            "Ragnarok Online 2",
+            "Skullgirls ∞Endless Beta∞",
+            "The Elder Scrolls V: Skyrim",
+            "Umbrella Corps",
+            "Warhammer 40,000: Space Marine - Anniversary Edition",
+            "Lost Ark",
+            "New World: Aeternum"
+        ]
+    }
+}
